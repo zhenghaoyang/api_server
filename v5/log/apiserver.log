@@ -1,0 +1,11 @@
+{"level":"ERROR","timestamp":"2018-10-16 16:10:06.818","file":"model/init.go:31","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-16 16:10:06.819","file":"v5/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-16 16:10:07.321","file":"v5/main.go:56","msg":"路由部署成功"}
+{"level":"DEBUG","timestamp":"2018-10-16 16:14:20.719","file":"user/create.go:27","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-16 16:14:20.721","file":"user/create.go:30","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-10-16 16:14:20.721","file":"user/create.go:34","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-10-16 16:19:29.909","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-17 15:26:21.713","file":"model/init.go:31","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 15:26:21.716","file":"v5/main.go:59","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 15:26:21.726","file":"v5/main.go:56","msg":"路由部署成功"}
+{"level":"DEBUG","timestamp":"2018-10-17 15:26:31.262","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}

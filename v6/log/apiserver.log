@@ -1,0 +1,36 @@
+{"level":"ERROR","timestamp":"2018-10-17 13:46:28.377","file":"model/init.go:49","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"ERROR","timestamp":"2018-10-17 13:47:27.074","file":"model/init.go:50","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"Error 1193: Unknown system variable 'parserTime'"}}
+{"level":"ERROR","timestamp":"2018-10-17 13:47:27.088","file":"model/init.go:50","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 13:47:27.088","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 13:47:27.591","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"DEBUG","timestamp":"2018-10-17 13:48:50.404","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"DEBUG","timestamp":"2018-10-17 13:51:05.892","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-17 13:54:41.803","file":"model/init.go:50","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"Error 1193: Unknown system variable 'parserTime'"}}
+{"level":"ERROR","timestamp":"2018-10-17 13:54:41.805","file":"model/init.go:50","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 13:54:41.805","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 13:54:42.309","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"DEBUG","timestamp":"2018-10-17 13:54:45.401","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-17 13:57:54.675","file":"model/init.go:50","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"Error 1193: Unknown system variable 'parserTime'"}}
+{"level":"ERROR","timestamp":"2018-10-17 13:57:54.677","file":"model/init.go:50","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 13:57:54.677","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 13:57:55.181","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"DEBUG","timestamp":"2018-10-17 13:58:03.338","file":"user/create.go:27","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-17 14:01:06.955","file":"model/init.go:50","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"Error 1193: Unknown system variable 'parserTime'"}}
+{"level":"ERROR","timestamp":"2018-10-17 14:01:06.956","file":"model/init.go:50","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 14:01:06.957","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 14:01:07.460","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 14:01:12.114","file":"user/create.go:21","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-10-17 14:01:12.115","file":"user/create.go:25","msg":"URL key param desc: test"}
+{"level":"DEBUG","timestamp":"2018-10-17 14:01:12.115","file":"user/create.go:29","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 14:01:12.115","file":"user/create.go:31","msg":"username is: [admin], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-10-17 14:02:45.514","file":"model/init.go:50","msg":"Database connection failed. Database name: db_apiserver","data":{"error":"Error 1193: Unknown system variable 'parserTime'"}}
+{"level":"ERROR","timestamp":"2018-10-17 14:02:45.516","file":"model/init.go:50","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 14:02:45.516","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 14:02:46.018","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 14:25:06.454","file":"model/init.go:57","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 14:25:06.454","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 14:25:06.957","file":"v6/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 14:25:40.311","file":"config/config.go:70","msg":"config file changed C:\\goproject\\src\\api_server\\v6\\conf\\config.yaml"}
+{"level":"ERROR","timestamp":"2018-10-17 14:30:29.995","file":"model/init.go:57","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 14:30:29.996","file":"v6/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 14:30:30.499","file":"v6/main.go:49","msg":"路由部署成功"}

@@ -1,0 +1,150 @@
+{"level":"ERROR","timestamp":"2018-10-17 15:37:44.227","file":"model/init.go:57","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 15:37:44.228","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 15:37:44.730","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:23:44.149","file":"model/init.go:57","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:23:44.151","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:23:44.654","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 19:24:43.839","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 19:24:43.840","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 19:24:43.840","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 19:24:43.840","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 19:24:43.840","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"WARN","timestamp":"2018-10-17 19:30:30.336","file":"model/init.go:56","msg":"config root:root@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"WARN","timestamp":"2018-10-17 19:30:30.344","file":"model/init.go:56","msg":"config :@tcp()/?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"ERROR","timestamp":"2018-10-17 19:30:30.345","file":"model/init.go:59","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:30:30.346","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:30:30.850","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 19:31:10.314","file":"config/config.go:70","msg":"config file changed C:\\goproject\\src\\api_server\\v7\\conf\\config.yaml"}
+{"level":"WARN","timestamp":"2018-10-17 19:32:24.993","file":"model/init.go:56","msg":"config root:root@tcp(localhost:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"WARN","timestamp":"2018-10-17 19:32:26.006","file":"model/init.go:56","msg":"config :@tcp()/?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"ERROR","timestamp":"2018-10-17 19:32:26.007","file":"model/init.go:59","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:32:26.008","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:32:26.509","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 19:33:15.998","file":"config/config.go:70","msg":"config file changed C:\\goproject\\src\\api_server\\v7\\conf\\config.yaml"}
+{"level":"WARN","timestamp":"2018-10-17 19:33:21.814","file":"model/init.go:56","msg":"config root:root@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"WARN","timestamp":"2018-10-17 19:33:21.819","file":"model/init.go:56","msg":"config :@tcp()/?charset=utf8\u0026parseTime=true\u0026loc=Local\n"}
+{"level":"ERROR","timestamp":"2018-10-17 19:33:21.820","file":"model/init.go:59","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:33:21.821","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:33:22.323","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:34:50.263","file":"model/init.go:59","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:34:50.263","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:34:50.765","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:37:06.030","file":"model/init.go:60","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:37:06.030","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:37:06.532","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:39:49.428","file":"model/init.go:34","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:39:49.428","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:39:49.932","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:41:14.193","file":"model/init.go:34","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:41:14.193","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:41:14.696","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:50:00.237","file":"model/init.go:35","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:50:00.238","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:50:00.741","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:52:53.546","file":"model/init.go:35","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:52:53.547","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:52:54.050","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 19:54:26.895","file":"model/init.go:35","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 19:54:26.896","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 19:54:27.398","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 20:19:58.555","file":"model/init.go:35","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 20:19:58.556","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:19:59.063","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 20:26:56.173","file":"model/init.go:35","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 20:26:56.174","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:26:56.678","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"ERROR","timestamp":"2018-10-17 20:32:05.217","file":"model/init.go:36","msg":"Database connection failed. Database name: ","data":{"error":"Error 1045: Access denied for user ''@'localhost' (using password: NO)"}}
+{"level":"INFO","timestamp":"2018-10-17 20:32:05.218","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:32:05.719","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:38:34.439","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:38:34.941","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:41:47.678","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:41:48.181","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:41:59.141","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:41:59.141","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:41:59.141","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:41:59.141","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:41:59.141","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:43:21.257","file":"config/config.go:70","msg":"config file changed C:\\goproject\\src\\api_server\\v7\\conf\\config.yaml"}
+{"level":"INFO","timestamp":"2018-10-17 20:44:23.355","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:44:23.858","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:44:26.037","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:44:26.038","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:44:26.038","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:44:26.038","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:44:26.038","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.760","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.760","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.760","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:44.760","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:44.760","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.761","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.762","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:46:44.762","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:44.762","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:44.762","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:46:50.913","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:46:50.913","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:46:50.913","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:50.913","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:50.913","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:46:51.917","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:46:51.917","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:46:51.917","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:51.917","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:46:51.917","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:48:35.138","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:48:35.138","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:48:35.138","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:48:35.138","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:48:35.138","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:54:20.683","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:54:21.185","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:54:25.227","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 20:54:25.228","file":"user/create.go:24","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-10-17 20:54:25.228","file":"user/create.go:28","msg":"URL key param desc: "}
+{"level":"DEBUG","timestamp":"2018-10-17 20:54:25.228","file":"user/create.go:32","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-10-17 20:54:25.228","file":"user/create.go:34","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-10-17 20:57:50.441","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 20:57:50.943","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 20:58:06.673","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:00:30.761","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:00:31.264","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:01:01.661","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:01:47.455","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:04:07.779","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:04:08.287","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:06:32.152","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:06:32.654","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:10:15.308","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:10:15.811","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:15:11.600","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:15:12.102","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:17:22.748","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:18:27.173","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:27:35.603","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 21:27:36.106","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 21:27:42.224","file":"user/delete.go:17","msg":"Delete function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 21:30:03.066","file":"user/delete.go:17","msg":"Delete function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:16:17.967","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 22:16:18.471","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 22:18:24.640","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:24:59.331","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 22:24:59.833","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 22:26:21.506","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:28:51.603","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:30:16.054","file":"user/create.go:14","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:31:59.568","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 22:32:00.072","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 22:32:06.481","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:35:14.447","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-17 22:35:14.950","file":"v7/main.go:49","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-17 22:35:19.281","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:37:19.460","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:38:38.366","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:39:03.765","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:39:15.103","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:41:34.983","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-17 22:41:48.021","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-10-18 09:58:12.037","file":"v7/main.go:52","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-18 09:58:12.540","file":"v7/main.go:49","msg":"路由部署成功"}

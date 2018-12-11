@@ -1,0 +1,40 @@
+
+
+
+-X/--request [GET|POST|PUT|DELETE|…]  指定请求的 HTTP 方法
+-H/--header                           指定请求的 HTTP Header
+-d/--data                             指定请求的 HTTP 消息体（Body）
+-v/--verbose                          输出详细的返回信息
+-u/--user                             指定账号、密码
+-b/--cookie                           读取 cookie
+curl -XGET http://127.0.0.1:8080/sd/health
+export APISERVER_ADDR=:7777
+export APISERVER_URL=http://127.0.0.1:7777
+登录 MySQL:
+mysql -uroot -proot
+use db_apiserver;
+select * from tb_users;
+调用日志包
+grep log * -R
+
+request详情
+curl -v -XGET -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user
+
+创建用户
+curl -XPOST -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user -d'{"username":"root","password":"root"}'
+
+查询用户列表
+curl -XGET -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user -d'{"offset": 0, "limit": 20}'
+
+获取用户详细信息
+ curl -XGET -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user/kong
+
+ 更新用户
+ curl -XPUT -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user/2 -d'{"username":"test","password":"test"}'
+
+获取 kong 用户信息：
+ curl -XGET -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user/kong
+
+删除用户
+ curl -XDELETE -H "Content-Type: application/json" http://127.0.0.1:8080/v1/user/2
+

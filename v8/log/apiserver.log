@@ -1,0 +1,10 @@
+{"level":"INFO","timestamp":"2018-10-18 15:55:00.116","file":"v8/main.go:56","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-10-18 15:55:00.627","file":"v8/main.go:53","msg":"路由部署成功"}
+{"level":"INFO","timestamp":"2018-10-18 16:05:27.234","file":"middleware/logging.go:70","msg":"54.9707ms     | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:06:00.429","file":"user/create.go:15","msg":"User Create function called.","data":{"X-Request-Id":"1f062065-6962-40e4-9530-040707dfeaf2"}}
+{"level":"INFO","timestamp":"2018-10-18 16:06:00.525","file":"middleware/logging.go:70","msg":"95.9422ms     | 127.0.0.1    |POST /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:08:00.450","file":"middleware/logging.go:70","msg":"12.9917ms     | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:08:13.057","file":"middleware/logging.go:70","msg":"7.9955ms      | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:08:17.164","file":"middleware/logging.go:70","msg":"6.9976ms      | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:09:36.466","file":"middleware/logging.go:70","msg":"6.9941ms      | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
+{"level":"INFO","timestamp":"2018-10-18 16:10:56.130","file":"middleware/logging.go:70","msg":"6.9956ms      | 127.0.0.1    |GET /v1/user| {code:0,message: OK}"}
